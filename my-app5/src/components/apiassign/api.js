@@ -1,0 +1,17 @@
+{"results":[{"gender":"male","name":{"title":"Mr","first":"اميرعلي","last":"کریمی"},
+"location":{"street":{"number":8310,"name":"میدان شهیدان رحیمی"},"city":"خوی","state":"خراسان جنوبی","country":"Iran","postcode":35673,
+"coordinates":{"latitude":"31.2394","longitude":"-155.9753"},
+"timezone":{"offset":"-2:00","description":"Mid-Atlantic"}},
+"email":"myraaly.khrymy@example.com",
+"login":{"uuid":"3d6dc644-d896-405e-acb1-42ac37139f63",
+"username":"sadcat351","password":"sawyer","salt":"ZGLxdw3j","md5":"1a2fe0af27f0652bddeda718a8537068",
+"sha1":"e95fef546fd02de54daf69111034f1189c7233cf",
+"sha256":"5b0c47d4a6d5a0433152faadbeae052f124bb588252c206091a166b450d4782e"},
+"dob":{"date":"1954-06-10T18:39:07.089Z","age":67},
+"registered":{"date":"2014-03-18T07:39:44.603Z","age":7},
+"phone":"024-01594246","cell":"0968-244-7852","id":{"name":"","value":null},
+"picture":{"large":"https://randomuser.me/api/portraits/men/79.jpg",
+"medium":"https://randomuser.me/api/portraits/med/men/79.jpg",
+"thumbnail":"https://randomuser.me/api/portraits/thumb/men/79.jpg"},"nat":"IR"}],
+"info":{"seed":"4829ac67b4b70aa3","results":1,"page":1,"version":"1.3"}}
+
